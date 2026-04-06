@@ -32,10 +32,3 @@ The project was built on **Stable Diffusion v1.5** with **ControlNet (Canny/Line
 ## 6. Conclusion & Outcomes
 The internship project has resulted in a professional-grade Gen AI repository. We have moved beyond simple 'text-to-image' and created a specialized 'image-to-image' restoration engine. All code is original, well-documented, and reproducible. 
 
-**Deliverables Included:**
-- 6 Standalone Jupyter Notebooks.
-- 6 Professional README documents for each task.
-- Integrated `requirements.txt` for the entire ecosystem.
-- This Final Internship Report.
-
----
