@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.log
+Task4_Data_Augmentation/dataset/
+Task4_Data_Augmentation/val2017/
+.vscode/
+.idea/
+.DS_Store
