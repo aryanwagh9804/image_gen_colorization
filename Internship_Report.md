@@ -39,8 +39,3 @@ The internship project has resulted in a professional-grade Gen AI repository. W
 - This Final Internship Report.
 
 ---
-**Internship Portfolio link**: [GitHub Repository - Real-time Gen AI Colorization](https://github.com/user/image_gen_colorization) (Public Link Placeholder)
-**Daily Report Status**: Completed via [Daily Report Form](https://forms.gle/oi3UhE4RcZEKSu1r5).
-
-*Submitted to: Elevance Skills Review Team*
-*Date: April 2, 2026*
